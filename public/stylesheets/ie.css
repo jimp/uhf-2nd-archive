@@ -1,0 +1,10 @@
+/*IE Fixes*/
+
+#Home #PrimaryContent { margin-top: 200px; }
+
+#Home #PrimaryContent .imagewrapper {
+	left: 20px;
+	margin-left: 20px !important;
+	margin-bottom: 20px !important;
+}
+
